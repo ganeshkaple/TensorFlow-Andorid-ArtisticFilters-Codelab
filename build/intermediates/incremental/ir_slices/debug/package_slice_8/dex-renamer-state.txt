@@ -1,0 +1,4 @@
+#Thu May 03 15:54:46 IST 2018
+base.0=/home/ganesh/Documents/tensorflow-style-transfer-android/android/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
